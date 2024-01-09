@@ -38,6 +38,6 @@ document.getElementById("display_addedmenu").innerHTML=htmldata
 function add_top(){
 //Complete the code
 var item=document.getElementById("add_item").value;
-menu_list_array.push[item]
-add_item
+menu_list_array.push(item)
+
 }
